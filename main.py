@@ -10,7 +10,7 @@ data_words = ldw.load_data()
 
 article_types = data_words.keys()
 
-TYPE_RECOGNIZER_WORDS_COUNT = 50;
+TYPE_RECOGNIZER_WORDS_COUNT = 200;
 
 def calulcate_freq_prob(d):
   type_recognizer_words = {}
@@ -103,7 +103,10 @@ test_train_set()
 
 # print results
 
-print "=" * 30
+print "=" * 50
+print 'TYPE_RECOGNIZER_WORDS_COUNT', TYPE_RECOGNIZER_WORDS_COUNT
+print 'Probabilites are added.'
+print "=" * 50
 
 hit_count = 0
 for k in results:
@@ -111,11 +114,11 @@ for k in results:
   best_match, probability = list(reversed(sorted(results[k].items(), key=operator.itemgetter(1))))[0]
   is_hit = should_be == best_match
   if is_hit: hit_count += 1 
-  print "[%5s] '%25s' '%25s' %f" % (is_hit, should_be, best_match, probability)
+  print "[%5s] '%25s' '%25s' %f" % (is_hit, should_be, best_match, probability) 
 
-print "=" * 30
+print "=" * 30 
 
-print "From %d test cases: %d is hit with accruacy %0.2f%%" % (len(results), hit_count, hit_count * 100.0 / len(results) )
+print "From %d test cases: %d is hit with accruacy %0.2f%%" % (len(results), hit_count, hit_count * 100.0 / len(results) ) 
 
 # get each word from the current test artical
 # calculate its frequency and probability of occurance in its article

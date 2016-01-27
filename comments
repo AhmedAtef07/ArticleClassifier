@@ -1,1 +1,3 @@
 -- The file contains underscores and non alpha words, these will be ignored so far an counted in the counter normally.
+-- Stopping words: http://www.lextek.com/manuals/onix/stopwords1.html
+-- Stopping words: http://www.lextek.com/manuals/onix/stopwords2.html

@@ -1,0 +1,185 @@
+==================================================
+TYPE_RECOGNIZER_WORDS_COUNT 50
+Probabilites are added.
+==================================================
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.031406
+[False] '          Rec.motorcycles' '              Alt.atheism' 0.025411
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.009618
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.028987
+[False] '          Rec.motorcycles' '              Alt.atheism' 0.019999
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.011200
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.042036
+[False] '          Rec.motorcycles' ' comp.sys.ibm.pc.hardware' 0.013563
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.009822
+[False] '          Rec.motorcycles' ' comp.sys.ibm.pc.hardware' 0.013099
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.018117
+[ True] '           comp.windows.x' '           comp.windows.x' 0.013477
+[False] '  comp.os.ms-windows.misc' ' comp.sys.ibm.pc.hardware' 0.044531
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.013315
+[False] '  comp.os.ms-windows.misc' ' comp.sys.ibm.pc.hardware' 0.026838
+[ True] '              Alt.atheism' '              Alt.atheism' 0.011882
+[False] ' comp.sys.ibm.pc.hardware' '    comp.sys.mac.hardware' 0.010692
+[False] '          Rec.motorcycles' ' comp.sys.ibm.pc.hardware' 0.003518
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.008426
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.024337
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.045576
+[False] ' comp.sys.ibm.pc.hardware' '    comp.sys.mac.hardware' 0.025610
+[False] ' comp.sys.ibm.pc.hardware' '  comp.os.ms-windows.misc' 0.018863
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.037820
+[False] ' comp.sys.ibm.pc.hardware' '    comp.sys.mac.hardware' 0.027179
+[False] ' comp.sys.ibm.pc.hardware' '                Rec.autos' 0.018961
+[ True] '           comp.windows.x' '           comp.windows.x' 0.021726
+[False] '           comp.windows.x' '       Rec.sport.baseball' 0.020627
+[False] '           comp.windows.x' '            comp.graphics' 0.020313
+[ True] '           comp.windows.x' '           comp.windows.x' 0.013754
+[False] '           comp.windows.x' '             misc.forsale' 0.006704
+[False] '           comp.windows.x' '  comp.os.ms-windows.misc' 0.010220
+[False] '           comp.windows.x' '            comp.graphics' 0.027952
+[ True] '           comp.windows.x' '           comp.windows.x' 0.021081
+[ True] '           comp.windows.x' '           comp.windows.x' 0.015196
+[False] '          Rec.motorcycles' '                Rec.autos' 0.013908
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.015149
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.012779
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.030231
+[False] '    comp.sys.mac.hardware' ' comp.sys.ibm.pc.hardware' 0.031373
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.023789
+[ True] '              Alt.atheism' '              Alt.atheism' 0.010878
+[False] '            comp.graphics' '    comp.sys.mac.hardware' 0.029764
+[ True] '            comp.graphics' '            comp.graphics' 0.021143
+[False] '            comp.graphics' '       Rec.sport.baseball' 0.023175
+[False] '            comp.graphics' '       Rec.sport.baseball' 0.013365
+[ True] '            comp.graphics' '            comp.graphics' 0.029863
+[False] '            comp.graphics' '           comp.windows.x' 0.023837
+[ True] '            comp.graphics' '            comp.graphics' 0.014789
+[ True] '            comp.graphics' '            comp.graphics' 0.031560
+[ True] '            comp.graphics' '            comp.graphics' 0.026253
+[False] ' comp.sys.ibm.pc.hardware' '  comp.os.ms-windows.misc' 0.016910
+[False] ' comp.sys.ibm.pc.hardware' '             misc.forsale' 0.019468
+[False] ' comp.sys.ibm.pc.hardware' '    comp.sys.mac.hardware' 0.029914
+[False] ' comp.sys.ibm.pc.hardware' '            comp.graphics' 0.018184
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.020364
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.025045
+[False] '    comp.sys.mac.hardware' '            comp.graphics' 0.015587
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.015889
+[False] '    comp.sys.mac.hardware' ' comp.sys.ibm.pc.hardware' 0.045576
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.011801
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.024577
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.020387
+[False] '    comp.sys.mac.hardware' ' comp.sys.ibm.pc.hardware' 0.026985
+[False] '    comp.sys.mac.hardware' '           comp.windows.x' 0.012005
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.045254
+[False] '  comp.os.ms-windows.misc' ' comp.sys.ibm.pc.hardware' 0.009340
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.045036
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.017726
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.027753
+[False] '  comp.os.ms-windows.misc' '            comp.graphics' 0.009032
+[ True] '                Rec.autos' '                Rec.autos' 0.053082
+[ True] '                Rec.autos' '                Rec.autos' 0.018262
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.019743
+[ True] '                Rec.autos' '                Rec.autos' 0.056066
+[False] '                Rec.autos' '    comp.sys.mac.hardware' 0.017824
+[ True] '                Rec.autos' '                Rec.autos' 0.025534
+[ True] '                Rec.autos' '                Rec.autos' 0.035746
+[False] '                Rec.autos' '    comp.sys.mac.hardware' 0.003919
+[ True] '                Rec.autos' '                Rec.autos' 0.032709
+[False] '                Rec.autos' '    comp.sys.mac.hardware' 0.010419
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.038177
+[False] '       Rec.sport.baseball' ' comp.sys.ibm.pc.hardware' 0.008803
+[False] '    comp.sys.mac.hardware' '              Alt.atheism' 0.011190
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.024317
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.016551
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.026411
+[False] '       Rec.sport.baseball' '             misc.forsale' 0.007862
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.019574
+[ True] '              Alt.atheism' '              Alt.atheism' 0.028590
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.008073
+[ True] '           comp.windows.x' '           comp.windows.x' 0.012890
+[False] '                Rec.autos' '           comp.windows.x' 0.001088
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.031373
+[False] ' comp.sys.ibm.pc.hardware' '             misc.forsale' 0.023302
+[ True] ' comp.sys.ibm.pc.hardware' ' comp.sys.ibm.pc.hardware' 0.032453
+[ True] '                Rec.autos' '                Rec.autos' 0.015946
+[ True] '                Rec.autos' '                Rec.autos' 0.044894
+[ True] '                Rec.autos' '                Rec.autos' 0.016370
+[False] ' comp.sys.ibm.pc.hardware' '           comp.windows.x' 0.004544
+[ True] '                Rec.autos' '                Rec.autos' 0.015704
+[ True] '                Rec.autos' '                Rec.autos' 0.027401
+[ True] '                Rec.autos' '                Rec.autos' 0.021615
+[ True] '                Rec.autos' '                Rec.autos' 0.004176
+[False] '  comp.os.ms-windows.misc' '           comp.windows.x' 0.005175
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.022132
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.008093
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.007670
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.009067
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.019215
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.009807
+[False] '            comp.graphics' ' comp.sys.ibm.pc.hardware' 0.011937
+[False] '            comp.graphics' '             misc.forsale' 0.010732
+[ True] '            comp.graphics' '            comp.graphics' 0.026478
+[ True] '            comp.graphics' '            comp.graphics' 0.019243
+[False] '            comp.graphics' '    comp.sys.mac.hardware' 0.015216
+[False] '            comp.graphics' '    comp.sys.mac.hardware' 0.032614
+[ True] '            comp.graphics' '            comp.graphics' 0.016861
+[ True] '              Alt.atheism' '              Alt.atheism' 0.017877
+[ True] '              Alt.atheism' '              Alt.atheism' 0.014617
+[False] '              Alt.atheism' ' comp.sys.ibm.pc.hardware' 0.003861
+[ True] '              Alt.atheism' '              Alt.atheism' 0.007005
+[ True] '              Alt.atheism' '              Alt.atheism' 0.014419
+[ True] '              Alt.atheism' '              Alt.atheism' 0.037852
+[ True] '              Alt.atheism' '              Alt.atheism' 0.028057
+[ True] '              Alt.atheism' '              Alt.atheism' 0.027863
+[False] '              Alt.atheism' '                Rec.autos' 0.018345
+[ True] '              Alt.atheism' '              Alt.atheism' 0.017370
+[ True] '                Rec.autos' '                Rec.autos' 0.025138
+[False] '          Rec.motorcycles' '              Alt.atheism' 0.012259
+[ True] '           comp.windows.x' '           comp.windows.x' 0.015797
+[ True] '           comp.windows.x' '           comp.windows.x' 0.021710
+[ True] '              Alt.atheism' '              Alt.atheism' 0.022186
+[ True] '             misc.forsale' '             misc.forsale' 0.015349
+[ True] '              Alt.atheism' '              Alt.atheism' 0.023128
+[ True] '              Alt.atheism' '              Alt.atheism' 0.019134
+[ True] '              Alt.atheism' '              Alt.atheism' 0.034999
+[False] '              Alt.atheism' '                Rec.autos' 0.020217
+[ True] '             misc.forsale' '             misc.forsale' 0.029528
+[ True] '             misc.forsale' '             misc.forsale' 0.017007
+[ True] '             misc.forsale' '             misc.forsale' 0.017648
+[False] '             misc.forsale' ' comp.sys.ibm.pc.hardware' 0.006585
+[ True] '             misc.forsale' '             misc.forsale' 0.028903
+[ True] '             misc.forsale' '             misc.forsale' 0.010034
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.028085
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.010923
+[ True] '             misc.forsale' '             misc.forsale' 0.020881
+[ True] '       Rec.sport.baseball' '       Rec.sport.baseball' 0.021781
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.016617
+[False] '           comp.windows.x' '            comp.graphics' 0.008085
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.010627
+[False] '          Rec.motorcycles' '              Alt.atheism' 0.002016
+[ True] '          Rec.motorcycles' '          Rec.motorcycles' 0.022619
+[False] '  comp.os.ms-windows.misc' '            comp.graphics' 0.019404
+[False] '  comp.os.ms-windows.misc' '             misc.forsale' 0.018056
+[False] '  comp.os.ms-windows.misc' ' comp.sys.ibm.pc.hardware' 0.008697
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.026803
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.007949
+[False] '  comp.os.ms-windows.misc' '              Alt.atheism' 0.016998
+[False] '  comp.os.ms-windows.misc' '           comp.windows.x' 0.034874
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.012156
+[ True] '  comp.os.ms-windows.misc' '  comp.os.ms-windows.misc' 0.016826
+[False] '  comp.os.ms-windows.misc' '    comp.sys.mac.hardware' 0.014067
+[ True] '    comp.sys.mac.hardware' '    comp.sys.mac.hardware' 0.021627
+[False] '             misc.forsale' '              Alt.atheism' 0.013004
+[ True] '             misc.forsale' '             misc.forsale' 0.014815
+[ True] '             misc.forsale' '             misc.forsale' 0.026372
+[ True] '             misc.forsale' '             misc.forsale' 0.010034
+[False] '             misc.forsale' ' comp.sys.ibm.pc.hardware' 0.045576
+[ True] '             misc.forsale' '             misc.forsale' 0.010136
+[ True] '             misc.forsale' '             misc.forsale' 0.012131
+[ True] '             misc.forsale' '             misc.forsale' 0.011854
+[ True] '             misc.forsale' '             misc.forsale' 0.021662
+[False] '            comp.graphics' '           comp.windows.x' 0.005175
+[ True] '             misc.forsale' '             misc.forsale' 0.030503
+[ True] '           comp.windows.x' '           comp.windows.x' 0.016019
+[ True] '           comp.windows.x' '           comp.windows.x' 0.011799
+[ True] '           comp.windows.x' '           comp.windows.x' 0.016143
+[ True] '           comp.windows.x' '           comp.windows.x' 0.021795
+==============================
+From 179 test cases: 116 is hit with accruacy 64.80%
